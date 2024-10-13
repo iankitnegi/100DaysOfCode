@@ -10,3 +10,16 @@ This repository documents my journey of learning **Python** in 100 days! 🚀 Ea
 
 ### 📅 Goal:  
 Learn Python step-by-step, practice daily, and build confidence to apply it in real-world scenarios!  
+
+### 🧩 Quick Revision:  
+import random  
+
+random_int = random.randint(1,10)  
+print(random_int)  
+
+random_decimal_0_to_1 = random.random() *10  
+print(random_decimal)  
+
+random_float = random.uniform(0,10)  
+print(random_float)  
+_________________________________________________
