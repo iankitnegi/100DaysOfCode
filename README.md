@@ -22,4 +22,11 @@ print(random_decimal)
 
 random_float = random.uniform(0,10)  
 print(random_float)  
+
+mylist = ["apple", "banana", "cherry"]  
+print(random.choice(mylist))  
+
+mylist = ["apple", "banana", "cherry"]    
+random.shuffle(mylist)    
+
 _________________________________________________
